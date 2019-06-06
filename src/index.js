@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import 'materialize-css';
+import 'materialize-css/dist/css/materialize.min.css'
+import '@fortawesome/fontawesome-free/css/all.css'
+import '@fortawesome/fontawesome-free/js/all'
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
